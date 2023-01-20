@@ -1,2 +1,2 @@
-I have created a new directory insite a 
-desktop namely assignment ..
+I have created a new directory inside a 
+desktop namely assignment.
